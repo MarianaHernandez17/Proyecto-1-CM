@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Fondo -->
+    <color name="fondo_arriba">#FF0E1A1F</color>
+    <color name="fondo_abajo">#FF123B3A</color>
+    <color name="brillo_verde">#3321C4A0</color>
+    <color name="brillo_azul">#335AA9FF</color>
+
+    <!-- Textos y superficies -->
+    <color name="menta">#FF7FE0C8</color>
+    <color name="texto_oscuro">#FF0B1620</color>
+    <color name="verde_ok">#FF14A06B</color>
+    <color name="blanco">#FFFFFFFF</color>
+    <color name="blanco_06">#0FFFFFFF</color>
+    <color name="blanco_07">#12FFFFFF</color>
+    <color name="blanco_12">#1FFFFFFF</color>
+    <color name="blanco_35">#59FFFFFF</color>
+    <color name="blanco_50">#80FFFFFF</color>
+    <color name="blanco_60">#99FFFFFF</color>
+    <color name="blanco_70">#B3FFFFFF</color>
+    <color name="blanco_85">#D9FFFFFF</color>
+
+    <!-- Errores -->
+    <color name="error_fuerte">#FFFF6B6B</color>
+    <color name="error_claro">#FFFF8A8A</color>
+
+    <!-- Acentos por cálculo (color, borde y versión suave) -->
+    <color name="acento_cuadratica">#FF5AA9FF</color>
+    <color name="acento_cuadratica_borde">#BF5AA9FF</color>
+    <color name="acento_cuadratica_suave">#385AA9FF</color>
+    <color name="acento_imc">#FFFF7A59</color>
+    <color name="acento_imc_borde">#BFFF7A59</color>
+    <color name="acento_imc_suave">#38FF7A59</color>
+    <color name="acento_interes">#FF3DDC97</color>
+    <color name="acento_interes_borde">#BF3DDC97</color>
+    <color name="acento_interes_suave">#383DDC97</color>
+    <color name="acento_energia">#FFB197FC</color>
+    <color name="acento_energia_borde">#BFB197FC</color>
+    <color name="acento_energia_suave">#38B197FC</color>
+</resources>

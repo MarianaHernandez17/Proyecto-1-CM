@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Calculadora interactiva</string>
+    <string name="menu_subtitulo">Elige un cálculo</string>
+    <string name="idioma_codigo">ES</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_compartir">Compartir</string>
+    <string name="compartir_titulo">Compartir resultado</string>
+    <string name="compartir_sin_nota">%1$s\n%2$s</string>
+    <string name="compartir_con_nota">%1$s\n%2$s\n%3$s</string>
+    <string name="resultado_titulo">Resultado</string>
+
+    <string name="calc_cuadratica_titulo">Ecuación de segundo grado</string>
+    <string name="calc_cuadratica_desc">Calcula las raíces reales de ax² + bx + c = 0</string>
+    <string name="calc_imc_titulo">Índice de masa corporal</string>
+    <string name="calc_imc_desc">Calcula tu IMC y su clasificación</string>
+    <string name="calc_interes_titulo">Interés compuesto</string>
+    <string name="calc_interes_desc">Calcula el monto final de una inversión</string>
+    <string name="calc_energia_titulo">Energía cinética</string>
+    <string name="calc_energia_desc">Calcula la energía de un cuerpo en movimiento</string>
+
+    <string name="campo_a">Coeficiente a</string>
+    <string name="campo_b">Coeficiente b</string>
+    <string name="campo_c">Coeficiente c</string>
+    <string name="ayuda_a">Debe ser distinto de cero</string>
+    <string name="ayuda_numero">Cualquier número real</string>
+    <string name="campo_peso">Peso (kg)</string>
+    <string name="ayuda_peso">Entre %1$s y %2$s kg</string>
+    <string name="campo_estatura">Estatura (m)</string>
+    <string name="ayuda_estatura">Entre %1$s y %2$s m</string>
+    <string name="campo_capital">Capital inicial (MXN)</string>
+    <string name="ayuda_capital">Debe ser mayor que cero</string>
+    <string name="campo_tasa">Tasa anual (porcentaje)</string>
+    <string name="ayuda_tasa">Entre %1$s y %2$s</string>
+    <string name="campo_tiempo">Tiempo (años)</string>
+    <string name="ayuda_tiempo">Mayor que cero y hasta %1$s años</string>
+    <string name="campo_masa">Masa (kg)</string>
+    <string name="ayuda_masa">Debe ser mayor que cero</string>
+    <string name="campo_velocidad">Velocidad (m/s)</string>
+    <string name="ayuda_velocidad">Cero o mayor, y menor que %1$s m/s</string>
+
+    <string name="error_obligatorio">Este campo es obligatorio</string>
+    <string name="error_numero_invalido">Ingresa un número válido</string>
+    <string name="error_a_cero">El coeficiente a no puede ser cero</string>
+    <string name="error_discriminante">El discriminante es negativo: no hay raíces reales</string>
+    <string name="error_peso_rango">El peso debe estar entre %1$s y %2$s kg</string>
+    <string name="error_estatura_rango">La estatura debe estar entre %1$s y %2$s m</string>
+    <string name="error_positivo">El valor debe ser mayor que cero</string>
+    <string name="error_tasa_rango">La tasa debe estar entre %1$s y %2$s</string>
+    <string name="error_tiempo_rango">El tiempo debe ser mayor que cero y máximo %1$s años</string>
+    <string name="error_no_negativo">La velocidad no puede ser negativa</string>
+    <string name="error_velocidad_luz">La velocidad debe ser menor que %1$s m/s (la de la luz)</string>
+
+    <string name="res_cuadratica">Raíces reales:\nx₁ = %1$s\nx₂ = %2$s\nDiscriminante = %3$s</string>
+    <string name="res_cuadratica_doble">Raíz real doble:\nx = %1$s\nDiscriminante = %2$s</string>
+    <string name="res_imc">Tu IMC es %1$s kg/m²</string>
+    <string name="imc_bajo">Clasificación: bajo peso</string>
+    <string name="imc_normal">Clasificación: peso normal</string>
+    <string name="imc_sobrepeso">Clasificación: sobrepeso</string>
+    <string name="imc_obesidad">Clasificación: obesidad</string>
+    <string name="res_interes">Monto final: %1$s MXN\nInterés ganado: %2$s MXN</string>
+    <string name="res_energia">Energía cinética: %1$s J</string>
+</resources>

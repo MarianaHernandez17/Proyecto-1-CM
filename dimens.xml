@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Espacios -->
+    <dimen name="espacio_xs">6dp</dimen>
+    <dimen name="espacio_s">8dp</dimen>
+    <dimen name="espacio_m">12dp</dimen>
+    <dimen name="espacio_l">16dp</dimen>
+    <dimen name="espacio_xl">20dp</dimen>
+    <dimen name="espacio_xxl">28dp</dimen>
+    <dimen name="margen_menu">22dp</dimen>
+
+    <!-- Formas y bordes -->
+    <dimen name="radio_tarjeta">22dp</dimen>
+    <dimen name="radio_campo">16dp</dimen>
+    <dimen name="borde_tarjeta">1.5dp</dimen>
+    <dimen name="borde_fino">1dp</dimen>
+
+    <!-- Íconos y alturas -->
+    <dimen name="icono_menu">64dp</dimen>
+    <dimen name="icono_formulario">52dp</dimen>
+    <dimen name="icono_relleno">12dp</dimen>
+    <dimen name="icono_flecha">32dp</dimen>
+    <dimen name="alto_boton">56dp</dimen>
+    <dimen name="alto_boton_pequeno">50dp</dimen>
+    <dimen name="alto_formula">110dp</dimen>
+
+    <!-- Cuadrícula de fondo -->
+    <dimen name="paso_cuadricula">26dp</dimen>
+    <dimen name="radio_punto">1.8dp</dimen>
+</resources>

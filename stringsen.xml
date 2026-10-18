@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Interactive calculator</string>
+    <string name="menu_subtitulo">Choose a calculation</string>
+    <string name="idioma_codigo">EN</string>
+    <string name="btn_calcular">Calculate</string>
+    <string name="btn_limpiar">Clear</string>
+    <string name="btn_volver">Back</string>
+    <string name="btn_compartir">Share</string>
+    <string name="compartir_titulo">Share result</string>
+    <string name="compartir_sin_nota">%1$s\n%2$s</string>
+    <string name="compartir_con_nota">%1$s\n%2$s\n%3$s</string>
+    <string name="resultado_titulo">Result</string>
+
+    <string name="calc_cuadratica_titulo">Quadratic equation</string>
+    <string name="calc_cuadratica_desc">Finds the real roots of ax² + bx + c = 0</string>
+    <string name="calc_imc_titulo">Body mass index</string>
+    <string name="calc_imc_desc">Calculates your BMI and its category</string>
+    <string name="calc_interes_titulo">Compound interest</string>
+    <string name="calc_interes_desc">Calculates the final amount of an investment</string>
+    <string name="calc_energia_titulo">Kinetic energy</string>
+    <string name="calc_energia_desc">Calculates the energy of a moving body</string>
+
+    <string name="campo_a">Coefficient a</string>
+    <string name="campo_b">Coefficient b</string>
+    <string name="campo_c">Coefficient c</string>
+    <string name="ayuda_a">Must be different from zero</string>
+    <string name="ayuda_numero">Any real number</string>
+    <string name="campo_peso">Weight (kg)</string>
+    <string name="ayuda_peso">Between %1$s and %2$s kg</string>
+    <string name="campo_estatura">Height (m)</string>
+    <string name="ayuda_estatura">Between %1$s and %2$s m</string>
+    <string name="campo_capital">Initial capital (MXN)</string>
+    <string name="ayuda_capital">Must be greater than zero</string>
+    <string name="campo_tasa">Annual rate (percent)</string>
+    <string name="ayuda_tasa">Between %1$s and %2$s</string>
+    <string name="campo_tiempo">Time (years)</string>
+    <string name="ayuda_tiempo">Greater than zero, up to %1$s years</string>
+    <string name="campo_masa">Mass (kg)</string>
+    <string name="ayuda_masa">Must be greater than zero</string>
+    <string name="campo_velocidad">Speed (m/s)</string>
+    <string name="ayuda_velocidad">Zero or more, and less than %1$s m/s</string>
+
+    <string name="error_obligatorio">This field is required</string>
+    <string name="error_numero_invalido">Enter a valid number</string>
+    <string name="error_a_cero">Coefficient a cannot be zero</string>
+    <string name="error_discriminante">The discriminant is negative: no real roots</string>
+    <string name="error_peso_rango">Weight must be between %1$s and %2$s kg</string>
+    <string name="error_estatura_rango">Height must be between %1$s and %2$s m</string>
+    <string name="error_positivo">The value must be greater than zero</string>
+    <string name="error_tasa_rango">The rate must be between %1$s and %2$s</string>
+    <string name="error_tiempo_rango">Time must be greater than zero and at most %1$s years</string>
+    <string name="error_no_negativo">Speed cannot be negative</string>
+    <string name="error_velocidad_luz">Speed must be lower than %1$s m/s (the speed of light)</string>
+
+    <string name="res_cuadratica">Real roots:\nx₁ = %1$s\nx₂ = %2$s\nDiscriminant = %3$s</string>
+    <string name="res_cuadratica_doble">Double real root:\nx = %1$s\nDiscriminant = %2$s</string>
+    <string name="res_imc">Your BMI is %1$s kg/m²</string>
+    <string name="imc_bajo">Category: underweight</string>
+    <string name="imc_normal">Category: normal weight</string>
+    <string name="imc_sobrepeso">Category: overweight</string>
+    <string name="imc_obesidad">Category: obesity</string>
+    <string name="res_interes">Final amount: %1$s MXN\nInterest earned: %2$s MXN</string>
+    <string name="res_energia">Kinetic energy: %1$s J</string>
+</resources>
